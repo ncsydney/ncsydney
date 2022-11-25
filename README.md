@@ -1,6 +1,6 @@
 ### Hallo daar 👋
 
-<p> Dit GitHub account gebruik ik voor projecten die ik maak voor school. </p>
+<p> Dit account gebruik ik voor schoolgerelateerde projecten</p>
 
 
 
