@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hallo daar 👋
+
+Dit GitHub account gebruik ik voor projecten die ik maak voor school.
+
+
 
 <!--
 **ncsydney/ncsydney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
